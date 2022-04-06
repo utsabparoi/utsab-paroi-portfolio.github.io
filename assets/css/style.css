@@ -346,19 +346,17 @@ section {
 .facts {
   padding-bottom: 30px;
 }
-
 .facts .count-box {
   padding: 30px;
   width: 100%;
 }
-
 .facts .count-box i {
   display: block;
   font-size: 44px;
   color: #149ddd;
   float: left;
+  line-height: 0;
 }
-
 .facts .count-box span {
   font-size: 48px;
   line-height: 40px;
@@ -367,7 +365,6 @@ section {
   color: #050d18;
   margin-left: 60px;
 }
-
 .facts .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 60px;
@@ -375,7 +372,6 @@ section {
   font-size: 14px;
   color: #122f57;
 }
-
 .facts .count-box a {
   font-weight: 600;
   display: block;
@@ -385,7 +381,6 @@ section {
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
 }
-
 .facts .count-box a:hover {
   color: #1f5297;
 }
