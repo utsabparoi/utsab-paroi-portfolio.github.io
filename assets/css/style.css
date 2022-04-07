@@ -355,7 +355,7 @@ section {
   font-size: 44px;
   color: #149ddd;
   float: left;
-  line-height: 0;
+  line-height: 5;
 }
 .facts .count-box span {
   font-size: 48px;
